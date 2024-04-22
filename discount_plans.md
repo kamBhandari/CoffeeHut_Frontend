@@ -1,6 +1,6 @@
 Regular customer gets certain percentage of discount. 
 
-Daily: 25% off on coffee (Excluding on Breakfast)
-Weekly: 15% off on Coffee 
-Monthly: 5% 25% off on coffee (excluding Breakfast)
-Quartely: No discounts
+1 Daily: 25% off on coffee (Excluding on Breakfast)
+2 Weekly: 15% off on Coffee 
+3 Monthly: 5% 25% off on coffee (excluding Breakfast)
+4 Quartely: No discounts
