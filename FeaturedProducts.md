@@ -5,6 +5,7 @@
 + Flat White 
 + Esspresso
 + Americano 
++ Tea
 
 ### Discount plan for customer.
 
